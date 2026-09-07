@@ -25,7 +25,7 @@ protein_fasta <-
     "../fa_genome/FA_proteins_clean.fa"
 
 eggnog_file <-
-    "/nas2/ewomagamre/fa24_project/bam_files/FA_annotation.emapper.annotations"
+    "../fa_genome/FA_annotation.emapper.annotations"
 
 outdir <-
     "results/annotation/full_DESeq2"
