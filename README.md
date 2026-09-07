@@ -111,3 +111,9 @@ The archived release corresponding to the submitted manuscript will also be cita
 **Eguono W. Omagamre**  
 Environmental Toxicology and Intervention Laboratory (EnviToxIn Lab)  
 University of Maryland Eastern Shore
+
+## Archived release
+
+The publication release of this analysis workflow is permanently archived in Zenodo:
+
+**Version v1.0.0:** https://doi.org/10.5281/zenodo.22646483
